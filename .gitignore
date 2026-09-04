@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# MLflow tracking logs and artifacts
+mlruns/
+mlartifacts/
+
+# Virtual Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Environment variables and secrets
+.env
+.DS_Store
+
+# Large model files and datasets
+*.joblib
+*.pkl
+*.h5
+*.csv
+data/
+models/
