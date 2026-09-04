@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Hafsa/Desktop/AI FACTORY INTELLIGENCE/mlruns/337674210100113080/b7217e4ad5ca4efcad7eb5f613167210/artifacts
+end_time: 1788552565668
+entry_point_name: ''
+experiment_id: '337674210100113080'
+lifecycle_stage: active
+run_id: b7217e4ad5ca4efcad7eb5f613167210
+run_name: Retraining_Iter_3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788552565568
+status: 3
+tags: []
+user_id: Hafsa
